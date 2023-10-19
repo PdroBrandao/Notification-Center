@@ -1,0 +1,24 @@
+{
+    "id": 0,
+    "external_id": "id on passaporte_digital",
+    "customer": {
+        "name": "Customer Full Name",
+        "email": "customer@egmai.com",
+        "whatsapp": {
+            "country_code": "55",
+            "number": "988887777",
+            "area_code": "31"
+        }
+    },
+    "event": {
+        "name": "event",
+        "ticket": "ticket_url"
+    },
+    "ruler": [true, false, false],
+    "payment_method": "credit_card / pix",
+    "transaction": {
+        "amount": "100",
+        "status": "paid / pending / refuse",
+        "currency": "BRL"
+    }
+}

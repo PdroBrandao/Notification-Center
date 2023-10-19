@@ -1,0 +1,58 @@
+{
+    "id": 0,
+    "external_id": "id on passaporte_digital",
+    "customer": {
+        "name": "Customer Full Name",
+        "email": "customer@egmai.com",
+        "whatsapp": {
+            "country_code": "55",
+            "number": "988887777",
+            "area_code": "31"
+        }
+    },
+    "event": {
+        "name": "event",
+        "ticket": "ticket_url"
+    },
+    "ruler": [true, false, false, false, true],
+    "payment_method": "payment_book",
+    "installments": 5,
+    "currency": "BRL",
+    "transactions": [
+        {
+            "value": "27.00",
+            "due_date": "2022-10-13",
+            "payment_date": null,
+            "status": "paid / pending",
+            "billing_url": "https://app.contapay.me/invoice/email/view/67084b2440ba19e3dbdae6857a6531fc1256b610f6b5189d46eb6747bb6c6690255e7106f263074d"
+        },
+        {
+            "value": "27.00",
+            "due_date": "2022-10-13",
+            "payment_date": null,
+            "status": "paid / pending",
+            "billing_url": "https://app.contapay.me/invoice/email/view/67084b2440ba19e3dbdae6857a6531fc1256b610f6b5189d46eb6747bb6c6690255e7106f263074d"
+        },
+        {
+            "value": "27.00",
+            "due_date": "2022-10-13",
+            "payment_date": null,
+            "status": "paid / pending",
+            "billing_url": "https://app.contapay.me/invoice/email/view/67084b2440ba19e3dbdae6857a6531fc1256b610f6b5189d46eb6747bb6c6690255e7106f263074d"
+        },
+        {
+            "value": "27.00",
+            "due_date": "2022-10-13",
+            "payment_date": null,
+            "status": "paid / pending",
+            "billing_url": "https://app.contapay.me/invoice/email/view/67084b2440ba19e3dbdae6857a6531fc1256b610f6b5189d46eb6747bb6c6690255e7106f263074d"
+        },
+        {
+            "value": "27.00",
+            "due_date": "2022-10-13",
+            "payment_date": null,
+            "status": "paid / pending",
+            "billing_url": "https://app.contapay.me/invoice/email/view/67084b2440ba19e3dbdae6857a6531fc1256b610f6b5189d46eb6747bb6c6690255e7106f263074d"
+        }
+    ]
+}

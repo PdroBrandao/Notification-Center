@@ -1,0 +1,7 @@
+{
+    "order_type": "paymentbook",
+    "order_id": "id",
+    "notification_status": "send",
+    "send_date": "2022-12-15",
+    "attempts": "0"
+}
