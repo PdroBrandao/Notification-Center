@@ -6,8 +6,8 @@ const FormData = require('form-data');
 
 @Injectable()
 export class MailgunNotificationService {
-    private url = "https://api.mailgun.net/v3/mail.passaportedigitalplus.com.br/messages"
-    private api_key = 'fff86db80c760282e12d87a4d8c3e079-4534758e-e6867200';
+    private url = {{url}}
+    private api_key = {{your_key}};
     private auth = {
         'username': 'api',
         'password': this.api_key
